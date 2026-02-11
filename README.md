@@ -6,5 +6,4 @@ mid-size tech companies, building AI-driven, core products in ambiguous, fast-mo
 environments. I enjoy turning complex problems into clear, usable experiences and 
 collaborating closely with engineers and designers.
 
-## 📬 Let's connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/cloecha/)
+## 📬 Let's connect: [LinkedIn](https://www.linkedin.com/in/cloecha/)
